@@ -1,0 +1,27 @@
+Dark TRACER Early Detection Framework for Malware Activity Based on Anomalous Spatiotemporal Patterns
+
+
+IEEE Access and Machine Learning,Volume:10,Issue Date:February.4.2022.
+
+
+Anomalous synchronization estimation, darknet, malware activity, spatiotemporal pattern.
+
+
+Dark_TRACER_Early_Detection
+
+
+dark_tracer_early_detection
+
+
+detection_type
+
+url
+length_url
+length_hostname
+https_token
+page_rank
+Prediction
+
+
+
+ ws.write(row_num, 0, my_row.
