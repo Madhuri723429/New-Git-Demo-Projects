@@ -5,6 +5,3 @@ This Project is about Predicting the url whether it is malware or legitimate
 We can also view accuracy results and Malware Detection type predicting type ratio.
 Remote Users can predict whether url is legitimate or malware
 
-Service Provider can also view the remote users who are logon to their accounts and predicting whether the url is alware or legitimate.
------------------------------------------------------------------------------------------------------------------------------------------
-
